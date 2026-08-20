@@ -1,4 +1,4 @@
-# 🕹️ Pala... ¿Pala ke? - Proyecto 3 (UTN)
+# 🕹️ Pala... ¿Pala ke? - Proyecto (UTN)
 
 Un videojuego arcade 2D desarrollado en **Python** utilizando la librería **Pygame**. El juego destaca por su arquitectura modular, aplicación de Programación Orientada a Objetos (POO) y manejo asincrónico del tiempo.
 
